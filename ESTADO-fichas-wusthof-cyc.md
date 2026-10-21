@@ -36,6 +36,14 @@ desactivados.
   otro sitio. Solo hay fotos de tiendas, que no se usan. Opciones: buscar en
   KAI USA (funcionó para la 609) o pedir las oficiales a CyC o a KAI.
 
+- **Fotos KAI desde la sesión en la nube (2026-10-21)**: la red de esta
+  sesión no resuelve `shun.kaiusa.com`, así que las fotos de KAI USA hay que
+  bajarlas desde el ordenador local, no desde aquí. Referencias útiles para
+  buscar: la 623 es el set "Classic 2-Piece Carving Set" (DMS-200 en
+  tiendas; DM-0703 + DM-0709); la 626 debería ser DM-0702 (santoku 18 cm) +
+  DM-0701 (oficio 15 cm), no confirmado como set oficial; la 589 falta saber
+  qué cuchillo es (hay zurdos en chef 20 cm, santoku 18 cm y oficio 15 cm).
+
 ## Pendiente, en orden
 
 1. Revisar la ficha de la 350.
